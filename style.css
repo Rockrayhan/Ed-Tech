@@ -1,0 +1,28 @@
+.navbar li:hover {
+    background-color: rgba(0, 255, 255, 0.486);
+}
+
+.about-info {
+    background-color: lightcyan;
+}
+
+header {
+    margin-bottom: 50px;
+}
+
+.courses {
+    margin-bottom: 100px;
+}
+
+
+.explore, .studens, .faq-section, .icon-section {
+    margin-bottom: 100px;
+}
+
+.icon-section{
+    margin-top: 100px;
+}
+
+.register {
+    margin-bottom: 80px;
+}
