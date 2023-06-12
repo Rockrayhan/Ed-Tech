@@ -26,3 +26,13 @@ header {
 .register {
     margin-bottom: 80px;
 }
+
+body {
+    overflow-x: hidden;
+}
+
+@media (max-width: 767px) { /* Apply styles for screens up to 767px wide (mobile) */
+    .course-img {
+        width: 100%;
+    }
+}
